@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/geral/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/geral/</link>
 <description>News gerais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 14 Jan 2026 10:18:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 14:18:52 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[USP desenvolve bateria funcional de nióbio recarregável]]></title>
-<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/usp-desenvolve-bateria-funcional-de-niobio-de-3-volts</link>
+<title><![CDATA[Profissão de acupunturista é regulamentada no Brasil]]></title>
+<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/brasil-regulamenta-exercicio-profissional-da-acupuntura</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 14 Jan 2026 10:05:00 GMT</pubDate>
+<pubDate>Wed, 14 Jan 2026 14:15:00 GMT</pubDate>
 <category><![CDATA[Geral]]></category>
-<guid isPermaLink="false"><![CDATA[1674910 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Universidade de São Paulo criou uma bateria de nióbio que atinge 3 volts, é recarregável e funciona fora das condições ideais de laboratório. O protótipo já está em fase de testes industriais e apresenta estabilidade em formatos comerciais padrão.]]></description>
+<guid isPermaLink="false"><![CDATA[1674939 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Foi publicada a lei que regulamenta a profissão de acupunturista no Brasil, assegurando o exercício profissional desta terapia milenar da medicina chinesa. A nova legislação define os requisitos para atuação, incluindo diplomas e experiências específicas.]]></description>
 <content:encoded><![CDATA[
-<p>A Universidade de São Paulo criou uma bateria de nióbio que atinge 3 volts, é recarregável e funciona fora das condições ideais de laboratório. O protótipo já está em fase de testes industriais e apresenta estabilidade em formatos comerciais padrão.</p>
-<p>O principal desafio para a construção da bateria foi resolver a degradação do nióbio em ambientes eletroquímicos convencionais, especialmente na presença de água e oxigênio. Para isso, foi criado um ambiente químico controlado que estabiliza o metal, inspirado em sistemas biológicos onde metais altamente reativos mudam de estado eletrônico sem se degradar.</p>
-<p>O grupo de pesquisa desenvolveu uma caixa de proteção inteligente chamada NB-RAM, que permite que o nióbio mude de estado várias vezes de forma controlada, evitando a degradação. Esse mecanismo foi adaptado para a bateria, garantindo sua funcionalidade e durabilidade.</p>
-<p>A pesquisadora Luana Italiano dedicou dois anos ao refinamento do sistema, realizando dezenas de versões experimentais para alcançar estabilidade, repetibilidade e controle dos parâmetros. O sistema funciona de forma estável não apenas em laboratório, mas também em arquiteturas próximas das usadas pela indústria.</p>
-<p>O protótipo da bateria de nióbio foi testado em formatos industriais padrão, como células tipo coin e pouch, apresentando carga e descarga repetidas com sucesso. A tecnologia já teve sua patente depositada pela USP e demonstra que o Brasil pode liderar no desenvolvimento de tecnologias avançadas.</p>
-<p>A bateria de nióbio desenvolvida na USP representa um avanço tecnológico importante, com potencial para aplicações industriais e comerciais no país.</p>
+<p>Foi publicada a lei que regulamenta a profissão de acupunturista no Brasil, assegurando o exercício profissional desta terapia milenar da medicina chinesa. A nova legislação define os requisitos para atuação, incluindo diplomas e experiências específicas.</p>
+<p>A acupuntura é definida como um conjunto de técnicas que estimulam pontos específicos do corpo por meio de agulhas e outros instrumentos, com o objetivo de manter ou restabelecer o equilíbrio das funções físicas e mentais. A lei estabelece que somente quem possui diploma de graduação superior em acupuntura, emitido por instituição reconhecida, pode exercer a profissão.</p>
+<p>Também estão autorizados a atuar os profissionais com diploma de curso similar ou equivalente no exterior, desde que validado e registrado nos órgãos competentes. Além disso, profissionais de saúde com título de especialista em acupuntura reconhecido pelos conselhos federais podem exercer a atividade.</p>
+<p>A nova legislação permite ainda que profissionais não diplomados, que comprovem exercer a acupuntura de forma ininterrupta há pelo menos cinco anos, possam continuar praticando. A lei assegura o uso de procedimentos isolados da acupuntura por outros profissionais de saúde, desde que estes façam curso específico em instituição reconhecida.</p>
+<p>A regulamentação reforça a segurança e a qualificação no exercício da acupuntura, beneficiando profissionais e pacientes em todo o país.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
