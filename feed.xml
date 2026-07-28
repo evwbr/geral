@@ -2,28 +2,71 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - Geral</title>
 <atom:link href="https://evwbr.github.io/geral/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/geral/</link>
 <description>Notícias gerais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 27 Jul 2026 11:19:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 15:09:57 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Semana começa com alerta amarelo para tempestades no RS]]></title>
-<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/semana-comeca-com-alerta-amarelo-para-tempestades-no-rs</link>
+<title><![CDATA[Coleta de lixo suspensa na zona norte de São Paulo em protesto pela morte de gari]]></title>
+<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/coleta-de-lixo-e-suspensa-em-bairro-de-sp-apos-morte-de-gari</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 09:57:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 15:02:00 GMT</pubDate>
 <category><![CDATA[Geral]]></category>
-<guid isPermaLink="false"><![CDATA[1697668 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[<p><p style="text-align: center;"><a class="" href=" <img src=" alt="Logo " style="height: 54px;"> </a></p><strong>O<a href=" target="_blank"> Instituto Nacional de Meteorologia (Inmet) </a>emitiu alerta amarelo para tempestades que poderão atingir todo o estado do <a href=" target="_blank">Rio Grande do Sul </a>no in…]]></description>
+<guid isPermaLink="false"><![CDATA[1697831 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O serviço de coleta de lixo foi suspenso na noite desta segunda-feira na zona norte de São Paulo em protesto pela morte do gari Diego Rafael da Silva, atropelado durante o trabalho. O motorista que causou o acidente estava embriagado e foi preso em flagrante por homicídio.]]></description>
+<enclosure url="https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png" type="image/png"/>
+<media:content url="https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png" medium="image" type="image/png"/>
+<media:thumbnail url="https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png"/>
 <content:encoded><![CDATA[
-<p>&lt;p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;&quot; href=&quot; &lt;img src=&quot; alt=&quot;Logo &quot; style=&quot;height: 54px;&quot;&gt; &lt;/a&gt;&lt;/p&gt;&lt;strong&gt;O&lt;a href=&quot; target=&quot;_blank&quot;&gt; Instituto Nacional de Meteorologia (Inmet) &lt;/a&gt;emitiu alerta amarelo para tempestades que poderão atingir todo o estado do &lt;a href=&quot; target=&quot;_blank&quot;&gt;Rio Grande do Sul &lt;/a&gt;no in…</p>
-<p>&lt;p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;&quot; href=&quot; &lt;img src=&quot; alt=&quot;Logo &quot; style=&quot;height: 54px;&quot;&gt; &lt;/a&gt;&lt;/p&gt;&lt;strong&gt;O&lt;a href=&quot; target=&quot;_blank&quot;&gt; Instituto Nacional de Meteorologia (Inmet) &lt;/a&gt;emitiu alerta amarelo para tempestades que poderão atingir todo o estado do &lt;a href=&quot; target=&quot;_blank&quot;&gt;Rio Grande do Sul &lt;/a&gt;no início desta semana, especialmente na segunda-feira (27). &lt;/strong&gt;&lt;img src=&quot; style=&quot;width: 1px; height: 1px; display: inline;&quot; /&gt;&lt;img src=&quot; style=&quot;width: 1px; height: 1px; display: inline;&quot; /&gt;&lt;/p&gt; &lt;p&gt;O alerta amarelo é o primeiro grau entre os três avisos emitidos pelo instituto: amarelo, para perigo potencial; laranja, para perigo; e vermelho, para grande perigo.</p>
-<p>&lt;/p&gt; &lt;p&gt;&lt;h3&gt;Notícias relacionadas: &lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot; Grande do Sul tem 206 cidades afetadas por fortes chuvas. &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot; deixam desabrigados e desalojados no Rio Grande do Sul. &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;o estado poderá ser atingido por chuvas de 20 a 30 milímetros por ora ou até 50 mm/dia, ventos intensos (40-60 km/h), e queda de granizo. &lt;/strong&gt; Há baixo risco de corte de energia elétrica, estragos em plantações, queda de galhos de árvores e de alagamentos.</p>
-<p>&lt;/p&gt; &lt;h2&gt;Inundações&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Em relação à possibilidade de&lt;a href=&quot; target=&quot;_blank&quot;&gt; inundações&lt;/a&gt;, o estado do Rio Grande do Sul permanece, até quarta-feira (29), em alerta laranja. &lt;/strong&gt; Duas regiões receberam alerta vermelho.</p>
-<p>O próximo passo depende dos atos oficiais previstos e dos comunicados dos órgãos envolvidos.</p>
+<p><img src="https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png" alt="Coleta de lixo suspensa na zona norte de São Paulo em protesto pela morte de gari" /></p>
+<p>O serviço de coleta de lixo foi suspenso na noite desta segunda-feira na zona norte de São Paulo em protesto pela morte do gari Diego Rafael da Silva, atropelado durante o trabalho. O motorista que causou o acidente estava embriagado e foi preso em flagrante por homicídio.</p>
+<p>Diego Rafael da Silva, funcionário da concessionária Loga, foi atropelado no domingo durante seu horário de trabalho no bairro da Barra Funda, zona oeste da capital paulista. O motorista de 53 anos apresentava sinais evidentes de embriaguez e foi submetido ao teste do bafômetro, que confirmou a presença de álcool acima do limite permitido por lei.</p>
+<p>Em nota, a concessionária informou que as equipes de coleta paralisaram as atividades de coleta comum e de materiais recicláveis nas vias atendidas na noite de segunda-feira, devido à comoção causada pela morte do colaborador. O serviço será retomado gradualmente e normalizado até quarta-feira.</p>
+<p>O motorista foi preso em flagrante por homicídio e está detido no 7º Distrito Policial, localizado no bairro da Lapa. A suspensão da coleta na zona norte reflete o impacto da tragédia entre os trabalhadores da concessionária e a comunidade local.</p>
+<p>A coleta de lixo na zona norte de São Paulo será normalizada até quarta-feira, após a paralisação em protesto pela morte do gari.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Nova onda de tempestades atinge Rio Grande do Sul]]></title>
+<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/novas-chuvas-no-rs-destelham-casas-e-deixam-familias-desabrigadas</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Jul 2026 13:31:00 GMT</pubDate>
+<category><![CDATA[Geral]]></category>
+<guid isPermaLink="false"><![CDATA[1697823 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Rio Grande do Sul enfrenta uma nova onda de tempestades desde o último domingo, com granizo e fortes rajadas de vento. Seis municípios foram afetados, causando desalojamento e diversos danos nas cidades atingidas.]]></description>
+<enclosure url="https://imagens.ebc.com.br/DpWxsBfjljZMW_ipa1Jynw1O_kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/g1-2026-07-27t161814.508_copy.jpg?itok=wJmygk3i" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/DpWxsBfjljZMW_ipa1Jynw1O_kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/g1-2026-07-27t161814.508_copy.jpg?itok=wJmygk3i" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/DpWxsBfjljZMW_ipa1Jynw1O_kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/g1-2026-07-27t161814.508_copy.jpg?itok=wJmygk3i"/>
+<content:encoded><![CDATA[
+<p><img src="https://imagens.ebc.com.br/DpWxsBfjljZMW_ipa1Jynw1O_kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/g1-2026-07-27t161814.508_copy.jpg?itok=wJmygk3i" alt="Nova onda de tempestades atinge Rio Grande do Sul" /></p>
+<p>O Rio Grande do Sul enfrenta uma nova onda de tempestades desde o último domingo, com granizo e fortes rajadas de vento. Seis municípios foram afetados, causando desalojamento e diversos danos nas cidades atingidas.</p>
+<p>As tempestades provocaram corte de energia, queda de árvores e destelhamento de centenas de casas em Boa Vista do Cadeado, Cachoeira do Sul, Cruz Alta, Dom Pedrito, Não me Toque e Santo Antônio das Missões. A intensidade dos ventos e a ocorrência de granizo agravaram os impactos nas regiões afetadas.</p>
+<p>Em Cachoeira do Sul, 20 pessoas ficaram desalojadas devido aos estragos causados pelas tempestades. Além disso, alagamentos foram registrados em várias localidades, dificultando o acesso e os serviços essenciais para a população.</p>
+<p>As autoridades locais monitoram a situação para prestar assistência às famílias atingidas e avaliar os danos causados pelas condições climáticas severas. A população permanece em alerta diante da possibilidade de novas ocorrências.</p>
+<p>Acompanhe as orientações das autoridades para garantir a segurança diante das condições climáticas no Rio Grande do Sul.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Mega-Sena sorteia prêmio acumulado de R$ 78 milhões]]></title>
+<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-sorteia-premio-acumulado-em-r-78-milhoes-nesta-terca-feira</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Jul 2026 11:29:00 GMT</pubDate>
+<category><![CDATA[Geral]]></category>
+<guid isPermaLink="false"><![CDATA[1697811 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O concurso 3 037 da Mega-Sena realizará o sorteio das seis dezenas a partir das 21h no Espaço da Sorte, em São Paulo. O prêmio principal está acumulado e estimado em R$ 78 milhões, atraindo grande expectativa dos apostadores.]]></description>
+<enclosure url="https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q"/>
+<content:encoded><![CDATA[
+<p><img src="https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q" alt="Mega-Sena sorteia prêmio acumulado de R$ 78 milhões" /></p>
+<p>O concurso 3 037 da Mega-Sena realizará o sorteio das seis dezenas a partir das 21h no Espaço da Sorte, em São Paulo. O prêmio principal está acumulado e estimado em R$ 78 milhões, atraindo grande expectativa dos apostadores.</p>
+<p>As apostas para o concurso podem ser feitas até as 20h, horário de Brasília, nas casas lotéricas e também pela internet, por meio do portal oficial das Loterias Caixa. O valor mínimo para participar é de R$ 6, correspondente a um jogo simples com seis números marcados.</p>
+<p>O sorteio será realizado no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo. Para acompanhar o resultado, o público poderá assistir à transmissão ao vivo pelo canal da Caixa no YouTube e na página oficial das Loterias Caixa no Facebook.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
